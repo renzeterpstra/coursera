@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586003394342.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3249029469",
+    "id" : "37C3AF46",
+    "lastKnownWriteTime" : 1586003312,
+    "last_content_update" : 1586003312,
+    "path" : "D:/coursera/rprogramming/notes/wk1.rmd",
+    "project_path" : "notes/wk1.rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
